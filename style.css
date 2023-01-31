@@ -1,0 +1,140 @@
+.botton {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 10;
+}
+html,body {
+    background-color: rgb(242, 169, 0);
+    margin: 0;
+    padding: 0;
+}
+.pText1 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 78, 2);
+    font-size: 40px;
+    text-align: center;
+}
+.rpText1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+.mPage1 {
+    background-color: rgb(0, 0, 0);
+}
+.mPage1 h3 {
+color: rgb(255, 255, 255);
+font-size: 25px;
+text-align: center;
+}
+.Image1 {
+    width: 100%;
+}
+.pText2 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 78, 2);
+    font-size: 40px;
+    text-align: center;
+}
+.mPage2 {
+    background-color: rgb(0, 0, 0);
+}
+.mPage2 h3 {
+color: rgb(255, 255, 255);
+font-size: 25px;
+}
+.mPage2 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.Image2 {
+    width: 100%;
+}
+.pText3 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 78, 2);
+    font-size: 40px;
+    text-align: center;
+}
+.mPage3 {
+    background-color: rgb(0, 0, 0);
+}
+.mPage3 h3 {
+color: rgb(255, 255, 255);
+font-size: 25px;
+}
+.mPage3 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.Image3 {
+    width: 100%;
+}
+.pText4 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 78, 2);
+    font-size: 40px;
+    text-align: center;
+}
+.mPage4 {
+    background-color: rgb(0, 0, 0);
+}
+.mPage4 h3 {
+color: rgb(255, 255, 255);
+font-size: 25px;
+}
+.mPage4 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.Image4 {
+    width: 100%;
+}
+.pText5 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 78, 2);
+    font-size: 40px;
+    text-align: center;
+}
+.mPage5 {
+    background-color: rgb(0, 0, 0);
+    background-color: rgb(243, 78, 2);
+    font-size: 40px;
+}
+.mPage5 h3 {
+color: rgb(0, 0, 0);
+font-size: 25px;
+}
+.mPage5 p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+.Image5 {
+    width: 100%;
+}
+.pText6 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 78, 2);
+    font-size: 40px;
+    text-align: center;
+}
+.mPage6 {
+    background-color: rgb(0, 0, 0);
+}
+.mPage6 h3 {
+color: rgb(255, 255, 255);
+font-size: 25px;
+}
+.mPage6 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.Image6 {
+    width: 100%;
+}
